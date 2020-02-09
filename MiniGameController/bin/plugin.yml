@@ -1,0 +1,4 @@
+name: MiniGameController
+version: 0.2
+main: com.baconsky.minigame.main.MiniGameController
+description: A cool plugin

@@ -1,0 +1,13 @@
+name: HungerGames
+version: 0.1
+main: com.baconsky.hungergames.main.HungerGames
+description: A cool plugin
+commands:
+  finishGame:
+    usage: /<command>
+    aliases: [fg]
+    description: Best command ever.
+  hungergames:
+    usage: /<command>
+    aliases: [hg]
+    description: Best command ever.

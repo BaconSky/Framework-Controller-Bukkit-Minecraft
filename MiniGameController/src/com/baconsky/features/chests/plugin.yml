@@ -1,0 +1,4 @@
+name: HungerGamesPrep
+version: 0.1
+main: com.baconsky.hungergames.prep.main.HungerGamesPrep
+description: HungerGames preparation plugin.
